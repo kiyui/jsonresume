@@ -1,0 +1,27 @@
+{
+  "name": "jsonresume",
+  "version": "1.0.0",
+  "description": "Dafne Kiyui's jsonresume",
+  "scripts": {
+    "resume": "resume",
+    "serve": "resume serve"
+  },
+  "keywords": [
+    "jsonresume",
+    "cv",
+    "resume"
+  ],
+  "author": "Dafne Kiyui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiyui/jsonresume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kiyui/jsonresume/issues"
+  },
+  "homepage": "https://github.com/kiyui/jsonresume#readme",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "resume-cli": "^3.0.5"
+  }
+}

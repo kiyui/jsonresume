@@ -1,0 +1,5 @@
+node_modules/
+# Generated files
+public/
+resume.html
+resume.pdf

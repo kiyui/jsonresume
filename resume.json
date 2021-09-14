@@ -1,0 +1,202 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Dafne Kiyui",
+    "label": "professional doer of technology thingies™",
+    "image": "https://www.gravatar.com/avatar/9745db1aa088a2cef8c9dfd6b5b6bf5d?s=512",
+    "email": "didyouknowthat@dafne.rocks",
+    "url": "https://dontreinventbicycle.com/",
+    "summary": "Pronouns: she/they; I'm Dafne, and there's no better way to describe me than as a huge tech nerd. I started scripting before I was able to even properly read, and have been using Linux for over half my life. I try to keep life quirky, and am always busy tinkering. Ask me about my latest project.",
+    "location": {
+      "countryCode": "MY",
+      "region": "Penang"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "dafnelately",
+        "url": "https://www.linkedin.com/in/dafnelately/"
+      },
+      {
+        "network": "Polywork",
+        "username": "dafnelately",
+        "url": "https://www.polywork.com/dafnelately"
+      },
+      {
+        "network": "GitHub",
+        "username": "kiyui",
+        "url": "https://github.com/kiyui"
+      },
+      {
+        "network": "Codeberg",
+        "username": "kiyui",
+        "url": "https://codeberg.org/kiyui"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Piktochart",
+      "location": "Remote, Penang",
+      "description": "Web-based infographics maker. Also the creator of Piktostory, a web-based video editing tool.",
+      "position": "DevOps",
+      "url": "https://piktochart.com/",
+      "startDate": "2017-05",
+      "endDate": "2021-07",
+      "summary": "I joined the company as a Javascript intern & was promoted to a full-time position 3 months later. In July 2018, I started picking up DevOp responsibilities given my prior experience & want for growth. In late 2019 I joined the Piktostory team as the sole backend developer & DevOp.",
+      "highlights": [
+        "I worked on Cycle.js, Vue.js, & Svelte frontends",
+        "Introduced TypeScript, Cypress, & many other tools to empower the Frontend team",
+        "Worked on Piktochart for Teams on pricing & live-collaboration",
+        "Worked with a Firebase-heavy application on Piktostory",
+        "Set up Piktostory's Kubernetes infra, CI/CD, & backend from scratch"
+      ]
+    },
+    {
+      "name": "Independent Data Services",
+      "location": "Kuching, Sarawak, Malaysia",
+      "description": "Creating reporting solutions",
+      "position": "Junior Software Developer",
+      "url": "https://www.idsdatanet.com/",
+      "startDate": "2016-08",
+      "endDate": "2021-03",
+      "summary": "I joined IDS as a part-time employee while still studying in university. My work caught the attention of the CTO at the time when my final year project team presented on how we used Docker as a part of our workflow & deployment.",
+      "highlights": [
+        "Introduced a CI/CD workflow with GitLab",
+        "Researched and developed a Docker-based deployment workflow"
+      ]
+    },
+    {
+      "name": "Swinburne University of Technology, Sarawak",
+      "location": "Kuching, Sarawak, Malaysia",
+      "description": "",
+      "position": "Research Assistant",
+      "url": "https://www.swinburne.edu.my/",
+      "startDate": "2016-11",
+      "endDate": "2017-03",
+      "summary": "I was contracted by my university in partnership with SAINS to expand on the work of my final year project.  I ended my contract early to pursue an opportunity at Piktochart instead.",
+      "highlights": [
+        "Worked with ONVIF cameras & CCTVs",
+        "Worked with live-streaming technologies such as RTSP",
+        "Researched creating a microservice light enough to be powered by Raspberry Pi nodes",
+        "Worked with a tech-stack based on MongoDB, FFmpeg, & Node.js"
+      ]
+    },
+    {
+      "name": "Various freelancing work done in college",
+      "position": "Freelancer",
+      "startDate": "2015",
+      "endDate": "2017",
+      "highlights": [
+        "Developed website for SUKMA XVIII & Paralimpiad Sarawak 2016 (National Games)",
+        "PHP developer at BolehVPN"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Swinburne University of Technology, Sarawak",
+      "url": "https://www.swinburne.edu.my/",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2013",
+      "endDate": "2017",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "#hopeful",
+      "date": "2019-07",
+      "awarder": "Piktochart",
+      "summary": "For showing excellence in #love."
+    }
+  ],
+  "skills": [
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "GCP",
+        "AWS",
+        "Cloud Functions"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Svelte",
+        "Vue.js",
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "name": "Domain Specific",
+      "keywords": [
+        "Puppeteer",
+        "FFmpeg",
+        "Firebase",
+        "GTK"
+      ]
+    },
+    {
+      "name": "Misc.",
+      "keywords": [
+        "Linux",
+        "Nix",
+        "Python",
+        "Laravel"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Malay",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Intermediate"
+    }
+  ],
+  "references": [
+    {
+      "name": "Likit Sae Lee (Backend Lead at Piktochart)",
+      "reference": "It is rare to come across a DevOps that is versatile across the stack, and Dafne is one of them. I had the pleasure to work with Dafne for the past few years. She first started as a Frontend then she moved to our team as the Backend/DevOps to build our new product: Piktostory.  She is the key pillar to the success of Piktostory which she single-handedly set up and managed the entire backend and infrastructure, while also contributing to the frontend on cross-functional projects. Specifically, She designed and coded the entire Firebase/Nodejs backend, created an automated and scalable deployment with Kubernetes on GCP, helped set up Webpack for frontend, developed application solutions involving usage of NLP, and also created our backend video renderer, just to name a few.  I’ve always been grateful to work with her, of which she is a great member for technical discussion, she has helped guide numerous technical projects. She also strives to deliver high-quality work autonomously and that has been the model of our engineers. I strongly recommend her to any team that is looking for a great, versatile DevOps engineer."
+    },
+    {
+      "name": "Andrea Zaggia, andrea@piktochart.com (Co-Founder & CTO at Piktochart)",
+      "reference": "<Please contact for comment>"
+    },
+    {
+      "name": "Albert Mulia Shintra, chenxeed@gmail.com (Frontend Lead at Piktochart 2015-2020)",
+      "reference": "<Please contact for comment>"
+    }
+  ],
+  "projects": [
+    {
+      "name": "GNOME Extensions",
+      "description": "Extensions for the GNOME desktop environment",
+      "highlights": [
+        "Created an extension for managing the night light",
+        "Created various other mini-extensions"
+      ],
+      "keywords": [
+        "GNOME Extension",
+        "GTK",
+        "Javascript"
+      ],
+      "startDate": "2017-03",
+      "url": "https://extensions.gnome.org/accounts/profile/TimurKiyivinski",
+      "type": "application"
+    }
+  ]
+}
